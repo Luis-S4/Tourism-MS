@@ -1,0 +1,185 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9" pages="2">
+  <diagram id="e9ZhwbBFNkvsDwkzhcLI" name="Page-2">
+    <mxGraphModel dx="2197" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="ZQtWfu4IN5E1kSHO4ciF-1" target="ZQtWfu4IN5E1kSHO4ciF-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-740" y="400" />
+              <mxPoint x="-740" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-1" value="&lt;b&gt;Tourism Management System&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="430" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-3" value="Payment Gateway" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-510" y="475" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-4" value="&#xa;&lt;code data-start=&quot;269&quot; data-end=&quot;275&quot;&gt;User&lt;/code&gt; &#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="475" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1000" y="535.8823529411764" as="sourcePoint" />
+            <mxPoint x="-820.0000000000011" y="530" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.438;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="ZQtWfu4IN5E1kSHO4ciF-3" target="ZQtWfu4IN5E1kSHO4ciF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="520" as="sourcePoint" />
+            <mxPoint x="-750" y="470" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="ZQtWfu4IN5E1kSHO4ciF-1" target="ZQtWfu4IN5E1kSHO4ciF-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-930" y="510" as="sourcePoint" />
+            <mxPoint x="-880" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.955;exitY=0.329;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.035;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="ZQtWfu4IN5E1kSHO4ciF-1" target="ZQtWfu4IN5E1kSHO4ciF-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-650" y="500" as="sourcePoint" />
+            <mxPoint x="-600" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-14" value="&lt;b&gt;Accommodation Provider&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-695.13" y="360" as="sourcePoint" />
+            <mxPoint x="-729.99" y="434.65" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-695.13" y="400" />
+              <mxPoint x="-730.13" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-18" value="&#xa;Transport Provider&#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-770" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.596;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="ZQtWfu4IN5E1kSHO4ciF-18" target="ZQtWfu4IN5E1kSHO4ciF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQtWfu4IN5E1kSHO4ciF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.325;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="ZQtWfu4IN5E1kSHO4ciF-1" target="ZQtWfu4IN5E1kSHO4ciF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-1" id="AV8o89k6OxFn7zrJlK9j">
+    <mxGraphModel dx="874" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="175" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="225" y="57.5" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="277.5" y="110" width="295" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="324.5" y="144.5" width="201" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="B2SONpCAMIQnBQk44XF8-1" value="&lt;strong data-end=&quot;358&quot; data-start=&quot;329&quot;&gt;Tourism Management System&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="200" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="347.6" y="210" width="14.8" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-8" value="Platform Developers &amp;amp; IT Team" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="240" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="492.6" y="210" width="14.8" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-11" value="System Managers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="417.6" y="282.5" width="14.8" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-14" value="Green Park Investment Group" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="310" width="147.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-17" value="System-Level&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontColor=light-dark(#000000,#FF3333);" parent="1" vertex="1">
+          <mxGeometry x="395" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-18" value="Primary Users" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#FF3333);" parent="1" vertex="1">
+          <mxGeometry x="395" y="114.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-20" value="Tourists" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="277.5" y="272.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-21" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="337.8" y="320" width="22.2" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-22" value="Accommodation Providers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-23" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="492.79999999999995" y="315.5" width="22.2" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-24" value="Transportation Providers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="455" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-25" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="540" y="218.75" width="16.65" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-27" value="Activity Providers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="527.5" y="255" width="45" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-30" value="Community &amp;amp; Local Impact" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#FF3333);" parent="1" vertex="1">
+          <mxGeometry x="395" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-31" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="253.75" y="160" width="22.2" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-32" value="Local Communities &amp;amp; Villages" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="217.5" width="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yY4RNWC6WDRJ0W4KW_at-32" target="yY4RNWC6WDRJ0W4KW_at-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-36" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="585.1500000000001" y="170" width="22.2" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-37" value="Supporting/Regulatory Entities" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#FF3333);" parent="1" vertex="1">
+          <mxGeometry x="395" y="20" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-38" value="Local Businesses &amp;amp; Restaurants" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="572.5" y="230" width="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-40" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="190" y="183.75" width="25.9" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-41" value="Travel Service Providers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="172.95" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yY4RNWC6WDRJ0W4KW_at-20" target="yY4RNWC6WDRJ0W4KW_at-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308" y="273" as="sourcePoint" />
+            <mxPoint x="425" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-19" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="298.25" y="251.25" width="18.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-44" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="25.9" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yY4RNWC6WDRJ0W4KW_at-45" value="Government Tourism Authorities" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="625.45" y="282.5" width="55" height="31.25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
