@@ -1,9 +1,71 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="2D3_aueRL4Q98Zp7gFtb">
-    <mxGraphModel>
+    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbB9f7kvz3rE9laWs2l_-2" target="PbB9f7kvz3rE9laWs2l_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#EDEDED);" edge="1" parent="1" source="PbB9f7kvz3rE9laWs2l_-4" target="PbB9f7kvz3rE9laWs2l_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-4" value="Registered" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-5" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbB9f7kvz3rE9laWs2l_-9" target="PbB9f7kvz3rE9laWs2l_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbB9f7kvz3rE9laWs2l_-9" target="PbB9f7kvz3rE9laWs2l_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-9" value="Verified" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-10" value="Email verified" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbB9f7kvz3rE9laWs2l_-12" target="PbB9f7kvz3rE9laWs2l_-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-12" value="Suspended" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbB9f7kvz3rE9laWs2l_-14" target="PbB9f7kvz3rE9laWs2l_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-14" value="Active" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-15" value="Admin approval" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-16" value="User deletes account" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbB9f7kvz3rE9laWs2l_-18" target="PbB9f7kvz3rE9laWs2l_-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-18" value="Deactivated" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PbB9f7kvz3rE9laWs2l_-19" value="Admin suspends account" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
