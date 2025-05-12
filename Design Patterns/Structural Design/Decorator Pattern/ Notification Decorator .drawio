@@ -1,9 +1,127 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.4">
   <diagram name="Page-1" id="DRCEh8a3dFL6Sd5ojMYb">
-    <mxGraphModel>
+    <mxGraphModel dx="872" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7ET7vERiM_Xp8d_J_6B-2" target="R7ET7vERiM_Xp8d_J_6B-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-2" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;code&gt;&lt;b&gt;NotificationManager&lt;/b&gt;&lt;/code&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="20" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-3" value="«interface»&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;code&gt;&lt;b&gt;NotificationService&lt;/b&gt;&lt;/code&gt;&lt;/p&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-4" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2511,&amp;quot;end&amp;quot;:2664},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2530,&amp;quot;end&amp;quot;:2568}]&quot;&gt;&lt;code&gt;+send()&lt;/code&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2511,&amp;quot;end&amp;quot;:2664},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2530,&amp;quot;end&amp;quot;:2568}]&quot;&gt;&lt;code&gt;+schedule()&lt;/code&gt;&lt;/p&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-5" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0.465;entryY=0.94;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="251" y="313" as="sourcePoint" />
+            <mxPoint x="251" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-6" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="313" as="sourcePoint" />
+            <mxPoint x="255" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-7" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="353" as="sourcePoint" />
+            <mxPoint x="165" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-8" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="313" as="sourcePoint" />
+            <mxPoint x="340" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-9" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339" y="353" as="sourcePoint" />
+            <mxPoint x="339" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-10" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;BasicNotification&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;/p&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="90" y="353" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-11" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;start&amp;quot;:1400,&amp;quot;end&amp;quot;:3936},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1400,&amp;quot;end&amp;quot;:1918},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1439,&amp;quot;end&amp;quot;:1918},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1833,&amp;quot;end&amp;quot;:1918},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1892,&amp;quot;end&amp;quot;:1918},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1892,&amp;quot;end&amp;quot;:1918}]&quot;&gt;&lt;font face=&quot;monospace&quot;&gt;-filename&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="R7ET7vERiM_Xp8d_J_6B-10">
+          <mxGeometry y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-12" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2708,&amp;quot;end&amp;quot;:2763},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2725,&amp;quot;end&amp;quot;:2763}]&quot;&gt;&lt;code&gt;+send()&lt;/code&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2708,&amp;quot;end&amp;quot;:2763},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2725,&amp;quot;end&amp;quot;:2763}]&quot;&gt;&lt;code&gt;+schedule()&lt;/code&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="R7ET7vERiM_Xp8d_J_6B-10">
+          <mxGeometry y="80" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-13" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;code style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NotificationDecorator&lt;/font&gt;&lt;/code&gt;&lt;/p&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="270" y="353" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-14" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2001,&amp;quot;end&amp;quot;:2113},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2020,&amp;quot;end&amp;quot;:2113}]&quot;&gt;&lt;code&gt;-wrappee:&amp;nbsp;&lt;/code&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NotificationService&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="R7ET7vERiM_Xp8d_J_6B-13">
+          <mxGeometry y="40" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-15" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2809,&amp;quot;end&amp;quot;:2900},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2828,&amp;quot;end&amp;quot;:2900}]&quot;&gt;&lt;code&gt;+send()&lt;/code&gt;&amp;nbsp;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2809,&amp;quot;end&amp;quot;:2900},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2828,&amp;quot;end&amp;quot;:2900}]&quot;&gt;&lt;code&gt;+schedule()&lt;/code&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="R7ET7vERiM_Xp8d_J_6B-13">
+          <mxGeometry y="90" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-16" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="319" y="160" as="sourcePoint" />
+            <mxPoint x="449" y="403" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="160" />
+              <mxPoint x="540" y="403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="160" as="sourcePoint" />
+            <mxPoint x="310" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.465;entryY=0.94;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="566" as="sourcePoint" />
+            <mxPoint x="351" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="566" as="sourcePoint" />
+            <mxPoint x="355" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="606" as="sourcePoint" />
+            <mxPoint x="265" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="566" as="sourcePoint" />
+            <mxPoint x="440" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="606" as="sourcePoint" />
+            <mxPoint x="439" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-23" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2927,&amp;quot;end&amp;quot;:3049},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2927,&amp;quot;end&amp;quot;:2955}]&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;EmailNotificationDecorator&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="190" y="606" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-24" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2927,&amp;quot;end&amp;quot;:3049},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:3011,&amp;quot;end&amp;quot;:3049}]&quot;&gt;&lt;code&gt;+send()&lt;/code&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2927,&amp;quot;end&amp;quot;:3049},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:3011,&amp;quot;end&amp;quot;:3049}]&quot;&gt;&lt;code&gt;+schedule()&lt;/code&gt;&lt;/p&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="R7ET7vERiM_Xp8d_J_6B-23">
+          <mxGeometry y="40" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-25" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2927,&amp;quot;end&amp;quot;:3049},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2983,&amp;quot;end&amp;quot;:3010}]&quot;&gt;PushNotificationDecorato&lt;/p&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="370" y="606" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="R7ET7vERiM_Xp8d_J_6B-26" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2927,&amp;quot;end&amp;quot;:3049},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:3011,&amp;quot;end&amp;quot;:3049}]&quot;&gt;&lt;code&gt;+send()&lt;/code&gt;&amp;nbsp;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2927,&amp;quot;end&amp;quot;:3049},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:3011,&amp;quot;end&amp;quot;:3049}]&quot;&gt;&lt;code&gt;+schedule()&lt;/code&gt;&lt;/p&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="R7ET7vERiM_Xp8d_J_6B-25">
+          <mxGeometry y="40" width="170" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
