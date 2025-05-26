@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="lcO1Mls-eVOdQyXZ0Ysi">
-    <mxGraphModel>
+    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ShE5tq_YLS0eRZC_eX72-1" target="ShE5tq_YLS0eRZC_eX72-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-19" value="&amp;lt;&amp;lt;HTTPS&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ShE5tq_YLS0eRZC_eX72-18">
+          <mxGeometry x="0.0357" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-1" value="&lt;b&gt;Tourist Device&lt;/b&gt;" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-3" value="&lt;b&gt;Admin Device&lt;/b&gt;" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ShE5tq_YLS0eRZC_eX72-4" target="ShE5tq_YLS0eRZC_eX72-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-21" value="&amp;lt;&amp;lt;HTTPS&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ShE5tq_YLS0eRZC_eX72-20">
+          <mxGeometry x="0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ShE5tq_YLS0eRZC_eX72-4" target="ShE5tq_YLS0eRZC_eX72-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-25" value="&amp;lt;&amp;lt;HTTPS&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ShE5tq_YLS0eRZC_eX72-24">
+          <mxGeometry x="0.2131" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-4" value="&lt;b&gt;Application Server&lt;/b&gt;" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="290" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-5" value="&lt;b&gt;Database Server&lt;/b&gt;" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="670" y="550" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-6" value="&lt;b&gt;Payment Gateway&lt;/b&gt;" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="550" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-7" value="&lt;b&gt;Notification Server&lt;/b&gt;" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-8" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;TourismClientApp" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-9" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;AdminConsoleApp" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-10" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;TourismBackendApp" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-11" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;PaymentIntegration" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-12" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;NotificationClient" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="330" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-13" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;NotificationService" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="610" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-14" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;External Service API" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="435" y="610" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-15" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;TourismDB" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=70;entryPerimeter=0;" edge="1" parent="1" source="ShE5tq_YLS0eRZC_eX72-4" target="ShE5tq_YLS0eRZC_eX72-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-23" value="&amp;lt;&amp;lt;JDBC&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ShE5tq_YLS0eRZC_eX72-22">
+          <mxGeometry x="0.363" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ShE5tq_YLS0eRZC_eX72-3" target="ShE5tq_YLS0eRZC_eX72-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ShE5tq_YLS0eRZC_eX72-28" value="&amp;lt;&amp;lt;HTTPS&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ShE5tq_YLS0eRZC_eX72-26">
+          <mxGeometry x="-0.1094" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
